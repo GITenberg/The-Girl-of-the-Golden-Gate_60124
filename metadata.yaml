@@ -1,11 +1,16 @@
 _repo: The-Girl-of-the-Golden-Gate_60124
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60124-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Meloney, William Brown
     gutenberg_agent_id: '50800'
     url: http://www.gutenberg.org/2009/agents/50800
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60124#The-Girl-of-the-Golden-Gate
 gutenberg_issued: '2019-08-18'
 gutenberg_type: Text
 identifiers:
